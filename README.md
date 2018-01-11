@@ -15,7 +15,7 @@ In `tslint.json`:
 ```json
 {
   "extends": "tslint-config-leonis"
-  }
+}
 ```
 
 ## License
