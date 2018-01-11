@@ -1,0 +1,23 @@
+{
+  "name": "tslint-config-leonis",
+  "version": "0.0.1",
+  "description": "A TSLint config for leonis TypeScript Style",
+  "main": "tslint.js",
+  "scripts": {
+    "test": "echo 'test' && exit 0",
+    "publish": "publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh//git@github.com/leonis/tslint-config-leonis.git"
+  },
+  "author": "dev.js@leonisand.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonis/tslint-config-leonis/issues"
+  },
+  "homepage": "https://github.com/leonis/tslint-config-leonis#readme",
+  "devDependencies": {
+    "publish": "^0.6.0"
+  }
+}
